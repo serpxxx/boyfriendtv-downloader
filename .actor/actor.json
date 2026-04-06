@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Boyfriendtv Downloader gives creators and teams a dependable way to save BoyfriendTV videos for offline access. Instead of juggling manual captures or risky browser extensions, it pulls publicly accessible files directly from BoyfriendTV with consistent quality.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "boyfriendtv-downloader",
+  "readme": "../README.md",
+  "title": "Boyfriendtv Downloader",
+  "version": "0.0"
+}
