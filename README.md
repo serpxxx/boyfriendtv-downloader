@@ -1,4 +1,4 @@
-# BoyfriendTV VIdeo Downloader (Browser Extension)
+# BoyfriendTV Video Downloader (Browser Extension)
 
 > Download BoyfriendTV videos as MP4 files from the browser with direct quality selection.
 
