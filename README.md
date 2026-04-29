@@ -1,4 +1,4 @@
-# BoyfriendTV Downloader (Browser Extension)
+# BoyfriendTV VIdeo Downloader (Browser Extension)
 
 > Download BoyfriendTV videos as MP4 files from the browser with direct quality selection.
 
@@ -157,10 +157,6 @@ No. Everything runs through the browser extension.
 - An internet connection is required for downloads
 - Source quality depends on the media exposed by BoyfriendTV
 - Some pages may require account access or site-specific permissions
-
-## License
-
-This repository includes an MIT license in [LICENSE.md](LICENSE.md).
 
 ## About BoyfriendTV
 
