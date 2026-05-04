@@ -1,6 +1,10 @@
-# BoyfriendTV Downloader
+# Boyfriendtv Video Downloader | How to Download Boyfriendtv Videos
 
 > Download BoyfriendTV videos as MP4 files from the browser with direct quality selection.
+
+## Get it Here
+
+Get it here: https://serp.ly/boyfriendtv-downloader
 
 ![Boyfriendtv Downloader](https://raw.githubusercontent.com/serpxxx/boyfriendtv-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ BoyfriendTV Downloader is a browser extension for users who want a simpler way t
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
 - Keep downloads organized in a dedicated folder
-
-## Get it Here
-
-Get it here: https://serp.ly/boyfriendtv-downloader
-
 ## Table of Contents
 
 - [Why BoyfriendTV Downloader](#why-boyfriendtv-downloader)
@@ -151,10 +150,6 @@ No. Everything runs through the browser extension.
 - An internet connection is required for downloads
 - Source quality depends on the media exposed by BoyfriendTV
 - Some pages may require account access or site-specific permissions
-
-## License
-
-This repository includes an MIT license in [LICENSE.md](https://github.com/serpxxx/boyfriendtv-downloader/blob/main/LICENSE.md).
 
 ## About BoyfriendTV
 
